@@ -1,0 +1,83 @@
+[
+  {
+  "name": "INABA32g",
+  "price": 32,
+  "quantity": 4,
+  "type": "food",
+  "popularity": 0,
+  "image": "https://tailybuddy.com/products/4050/m-inaba%20%E0%B8%AA%E0%B8%B5%E0%B8%AA%E0%B9%89%E0%B8%A1.jpg"
+  },
+  {
+  "name": "V-planet 6.8kg",
+  "price": 1900,
+  "quantity": 1,
+  "type": "food",
+  "popularity": 0,
+  "image": "https://tailybuddy.com/products/7807/m-avoderm0.jpg"
+  },
+  {
+  "name": "Sunrise 1.25kg",
+  "price": 365,
+  "quantity": 2,
+  "type": "food",
+  "popularity": 0,
+  "image": "https://tailybuddy.com/products/3119/m-fs-l3_copy.jpg"
+  },
+  {
+  "name": "PETKIT TRIMMER",
+  "price": 680,
+  "quantity": 1,
+  "type": "grooming",
+  "popularity": 0,
+  "image": "https://tailybuddy.com/products/8507/m-petkit-trimmer-cover.jpg"
+  },
+  {
+  "name": "Oakwood Loose hair remover 3-in-1",
+  "price": 350,
+  "quantity": 1,
+  "type": "grooming",
+  "popularity": 0,
+  "image": "https://tailybuddy.com/products/5175/m-Oakwood_Loose_hair_remover_Grooming_Glove.jpg"
+  },
+  {
+  "name": "YU แชมพูสำหรับสุนัข/แมว สูตรสารสกัดจากดอกแอสทรากาลัส ช่วยให้ขนเงางามเป็นพิเศษ (400ml)",
+  "price": 479,
+  "quantity": 1,
+  "type": "shampoo",
+  "popularity": 0,
+  "image": "https://tailybuddy.com/products/2877/m-%E0%B8%94%E0%B8%AD%E0%B8%81%E0%B9%81%E0%B8%AD%E0%B8%AA%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%AA.jpg"
+  },
+  {
+  "name": "Doggy Potion แชมพู (500ml) +สเปรย์กำจัดกลิ่นและบำรุงขนสุนัข (250ml) สูตร Fresh กลิ่นหอมสดชื่น",
+  "price": 788,
+  "quantity": 1,
+  "type": "shampoo",
+  "popularity": 0,
+  "image": "https://tailybuddy.com/products/2672/m-%E0%B9%81%E0%B8%8A%E0%B8%A1%E0%B8%9E%E0%B8%B9-%E0%B8%AA%E0%B9%80%E0%B8%9B%E0%B8%A3%E0%B8%A2%E0%B9%8CFresh-.jpg"
+  },
+  {
+  "name": "BOK DOK บ๊อกด๊อก กรรไกรตัดเล็บสแตนเลส สำหรับสุนัขและแมว (ด้าม 4 นิ้ว) (HB-42)",
+  "price": 85,
+  "quantity": 1,
+  "type": "grooming",
+  "popularity": 0,
+  "image": "https://tailybuddy.com/products/2623/m-BOK_DOK_Clippers_for_dogs_(HB-42).jpg"
+  },
+  {
+  "name": "Merry X'mas แฟชั่นชุดเสื้อสุนัข/แมว ชุดเขียว หมวกซานต้าสีแดง ใส่ 2 ขาหน้า ผ้าสำลีนุ่มฟ้า ลาย big",
+  "price": 150,
+  "quantity": 1,
+  "type": "clothing",
+  "popularity": 0,
+  "image": "https://tailybuddy.com/products/6697/m-122185.jpg"
+  },
+  {
+  "name": "ชุดแฟนซี ชุดนักเรียนญี่ปุ่น สำหรับสุนัข และแมว น่ารักๆ (S,M,L,XL) big",
+  "price": 240,
+  "quantity": 1,
+  "type": "clothing",
+  "popularity": 0,
+  "image": "https://tailybuddy.com/products/2383/m-%E0%B8%8A%E0%B8%B8%E0%B8%94%E0%B8%99%E0%B8%A33.JPG"
+  }
+]
+  
