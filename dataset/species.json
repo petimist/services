@@ -1,0 +1,110 @@
+{
+    "species": [{
+        "breed": "Labrador Retriever",
+        "breedType": "Purebred",
+        "coat": "double coat",
+        "fur": "short",
+        "size": "medium",
+        "temperament": ["Cheerful", "Gentle", "Friendly", "Intelligent"],
+        "hypoallergenic": "No",
+        "photo": "https://thelabradorclub.com/wp-content/uploads/2016/10/shutterstock_427208116.jpg"
+    }, {
+        "breed": "German Shepard",
+        "breedType": "Purebred",
+        "coat": "double coat",
+        "fur": "medium",
+        "size": "large",
+        "temperament": ["Corageous", "Intelligent", "Loyal", "Watchful"],
+        "hypoallergenic": "No",
+        "photo": "https://www.thesprucepets.com/thmb/ai7z_DHpzVu0gB2ew62dMJpzSho=/2691x2691/smart/filters:no_upscale()/german-shepherd-puppy-142059143-581b921a3df78cc2e86dd779.jpg"
+    }, {
+        "breed": "Golden Retriever",
+        "breedType": "Purebred",
+        "coat": "double coat",
+        "fur": "long",
+        "size": "large",
+        "temperament": ["Intelligent", "Kind", "Friendly", "Confident"],
+        "hypoallergenic": "No",
+        "photo": "https://secure.img1-fg.wfcdn.com/im/26301527/compr-r85/4307/43074506/hanging-golden-retriever-puppy-statue.jpg"
+    }, {
+        "breed": "French Bulldog",
+        "breedType": "Purebred",
+        "coat": "single coat",
+        "fur": "short",
+        "size": "small",
+        "temperament": ["Playful", "Sociable", "Friendly", "Lively", "Patient"],
+        "hypoallergenic": "No",
+        "photo": "https://i.pinimg.com/originals/d7/1d/66/d71d663c070a4b26ecfd6f70a92c37cb.jpg"
+
+    }, {
+        "breed": "Bulldog",
+        "breedType": "Purebred",
+        "coat": "single coat",
+        "fur": "short",
+        "size": "medium",
+        "temperament": ["Friendly", "Docile", "Willful", "Gregarious"],
+        "hypoallergenic": "No",
+        "photo": "https://i.ebayimg.com/images/g/9aoAAOSwn9VaVRLD/s-l300.jpg"
+
+    }, {
+        "breed": "Beagle",
+        "breedType": "Purebred",
+        "coat": "double coat",
+        "fur": "medium",
+        "size": "small",
+        "temperament": ["Gentle", "Intelligent", "Even Tempered", "Determined"],
+        "hypoallergenic": "No",
+        "photo": "https://www.pdsa.org.uk/media/7704/beagle-outdoors-gallery-7-min.jpg?anchor=center&mode=crop&quality=100&height=500&bgcolor=fff&rnd=132158008000000000"
+
+    }, {
+        "breed": "Poodle",
+        "breedType": "Purebred",
+        "coat": "single coat",
+        "fur": "long",
+        "size": "medium",
+        "temperament": ["Intelligent", "Faithful", "Trainable", "Instinctual"],
+        "hypoallergenic": "Yes",
+        "photo": "https://i2.wp.com/readysetpuppy.com/wp-content/uploads/2019/09/How-to-Prepare-your-House-for-the-Arrival-of-a-New-Poodle-Puppy.jpg?fit=1000%2C669&ssl=1"
+
+    }, {
+        "breed": "Rottweiler",
+        "breedType": "Purebred",
+        "coat": "double coat",
+        "fur": "medium",
+        "size": "large",
+        "temperament": ["Intelligent", "Corageous", "Fearless", "Confident"],
+        "hypoallergenic": "No",
+        "photo": "https://www.dogtime.com/assets/uploads/2016/09/rottweiler-puppy-1-e1553630142158-1280x720.jpg"
+
+    }, {
+        "breed": "German Shorthaired Pointer",
+        "breedType": "Purebred",
+        "coat": "double coat",
+        "fur": "short-haired",
+        "size": "large",
+        "temperament": ["Intelligent", "Trainable", "Boisterous", "Cooperative"],
+        "hypoallergenic": "No",
+        "photo": "https://i2.wp.com/alaskadogworks.com/wp-content/uploads/2020/02/germanshorthairedpointer_puppy.jpg?resize=1010%2C673&ssl=1"
+
+    }, {
+        "breed": "Yorkshire Terrier",
+        "breedType": "Purebred",
+        "coat": "single coat",
+        "fur": "long",
+        "size": "small",
+        "temperament": ["Independent", "Intelligent", "Corageous", "Confident"],
+        "hypoallergenic": "Yes",
+        "photo": "https://i.insider.com/5e3d3da4df2f665ea0731f49?width=1100&format=jpeg&auto=webp"
+
+    }, {
+        "breed": "Boxer",
+        "breedType": "Purebred",
+        "coat": "single coat",
+        "fur": "short",
+        "size": "medium",
+        "temperament": ["Playful", "Friendly", "Devoted", "Loyal"],
+        "hypoallergenic": "No",
+        "photo": "https://i.ebayimg.com/images/g/6T4AAOSwAQZddsaT/s-l400.jpg"
+
+    }]
+}
